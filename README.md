@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/Kenney-G/orm-mapping-db-to-ruby-object-lab-online-web-ft-110419)](https://repl.it/github/Kenney-G/orm-mapping-db-to-ruby-object-lab-online-web-ft-110419)
+
 # ORM Mapping Database Rows to Ruby Objects
 
 ## Objectives
